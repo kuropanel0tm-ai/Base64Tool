@@ -1,0 +1,7 @@
+*.pyc
+__pycache__/
+.buildozer/
+bin/
+build*.log
+*.spec
+data/
